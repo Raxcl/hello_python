@@ -1,0 +1,8 @@
+{'id': '1001', 'name': 'raxcl', 'english': '100', 'python': '100', 'java': '100'}
+{'id': '1002', 'name': '小钰儿', 'english': 150, 'python': 3, 'java': 150}
+{'id': '1003', 'name': 'q', 'english': '1', 'python': '5', 'java': '12'}
+{'id': '1004', 'name': 'w', 'english': 2, 'python': 7, 'java': 31}
+{'id': '1005', 'name': 'e', 'english': '6', 'python': '2', 'java': '1'}
+{'id': '1006', 'name': 'r', 'english': 4, 'python': 3, 'java': 43}
+{'id': '1007', 'name': 't', 'english': '5', 'python': '1', 'java': '2'}
+{'id': '1008', 'name': 'y', 'english': 6, 'python': 7, 'java': 14}
